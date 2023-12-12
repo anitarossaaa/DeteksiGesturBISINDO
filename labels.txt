@@ -1,0 +1,5 @@
+0 Maaf
+1 Baik
+2 Saya
+3 Ibu
+4 Bapak
